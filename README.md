@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi, is Gaboar Cruz! 👋</h1>
+<h1 align="center">¡Hi, i am Gaboar Cruz! 👋</h1>
 
 <p align="center">
   Passionate about learning and crafting <i>innovative</i> solutions to complex challenges. 
